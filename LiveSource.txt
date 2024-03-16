@@ -160,7 +160,7 @@ i成都,http://171.213.39.160:9100/udp/239.93.1.104:1234
 都江堰电视台,https://quxian.pull.cditv.cn/live/dujiangyan.flv/playlist.m3u8?wsSecret=d56f665453c7e456a6d2bf1d248c735a&wsTime=65f589c2
 彭州电视台,https://quxian.pull.cditv.cn/live/pengzhou.flv/playlist.m3u8?wsSecret=960d0b1f53e7758c73f83c58a475b0ee&wsTime=65f589e4
 邛崃电视台,https://quxian.pull.cditv.cn/live/qionglai.flv/playlist.m3u8?wsSecret=b4560501905e8fe4854a92e72b06f60d&wsTime=65f58a04
-崇州电视台,https://quxian.pull.cditv.cn/live/chongzhou.flv/playlist.m3u8?wsSecret=7f12a26f62c47040da1e55b4fa9afaba&wsTime=65f58734
+崇州电视台,https://4grhdgmtsfa3dncjqga5o.ourdvsss.com/quxian.pull.cditv.cn/live/chongzhou.flv/playlist.m3u8?wsSecret=54d4d1930841d9f39b5dc72382138959&wsTime=65f58bc6&wsSession=f986000612e5bef7dbb59aa8-171059091908379&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
 金堂电视台,https://quxian.pull.cditv.cn/live/jintang.flv/playlist.m3u8?wsSecret=9bb2b60db8c05d4ec8e76180f4722e0f&wsTime=65f58a27
 大邑电视台,https://quxian.pull.cditv.cn/live/dayi.flv/playlist.m3u8?wsSecret=225f1e3dcb8eb038773bcd57fe2855dd&wsTime=65f58a48
 蒲江电视台,https://quxian.pull.cditv.cn/live/pujiang.flv/playlist.m3u8?wsSecret=acb2a9790009190962ee2f6112179ca4&wsTime=65f58a68
