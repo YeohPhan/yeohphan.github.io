@@ -77,14 +77,14 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视频道",凤凰中文
-http://171.213.39.160:9100/udp/239.93.0.162:2192#http://171.213.39.160:9100/udp/239.93.1.9:2192
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="卫视频道",凤凰资讯
-http://171.213.39.160:9100/udp/239.93.0.118:2191#http://171.213.39.160:9100/udp/239.93.1.4:2191
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视频道",CHANNEL-V
-http://171.213.39.160:9100/udp/239.93.0.157:2194#http://171.213.39.160:9100/udp/239.93.1.7:2194
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="卫视频道",星空卫视
-http://171.213.39.160:9100/udp/239.93.0.156:2193#http://171.213.39.160:9100/udp/239.93.1.10:2193
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",凤凰中文
+http://182.149.204.14:4000/udp/239.93.0.162:2192#http://182.149.204.14:4000/udp/239.93.1.9:2192
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",凤凰资讯
+http://182.149.204.14:4000/udp/239.93.0.118:2191#http://182.149.204.14:4000/udp/239.93.1.4:2191
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",星空
+http://182.149.204.14:4000/udp/239.93.0.156:2193#http://182.149.204.14:4000/udp/239.93.1.10:2193
+#EXTINF:-1 tvg-logo="" group-title="港澳台频道",CHANNEL-V
+http://182.149.204.14:4000/udp/239.93.0.157:2194#http://182.149.204.14:4000/udp/239.93.1.7:2194
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:7001:20:2::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -229,104 +229,47 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="卫视频道",劲爆体育
 http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" group-title="电影台",天映经典
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影台",天映经典
 http://210.210.155.35:80/uq2663/h/h239/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影台",天映频道
 http://210.210.155.37/dr9445/h/h14/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影台",功夫台
 https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影台",经典电影
-http://171.213.39.160:9100/udp/239.93.0.57:9024
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="电影台",爱上4K
-http://171.213.39.160:9100/udp/239.93.0.97:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="电影台",4K乐享超清
-http://171.213.39.160:9100/udp/239.93.0.43:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影台",绚影4K
-http://171.213.39.160:9100/udp/239.93.42.33:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影台",青春动漫
-http://171.213.39.160:9100/udp/239.93.0.146:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影台",中录动漫4K
 http://171.213.39.160:9100/udp/239.93.1.188:5140
-#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川频道",SCTV-2高清
-http://171.213.39.160:9100/udp/239.93.1.101:5140
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川频道",SCTV-3高清
-http://171.213.39.160:9100/udp/239.93.1.102:5140
-#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川频道",SCTV-4高清
-http://171.213.39.160:9100/udp/239.93.0.47:5140
-#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川频道",SCTV-5高清
-http://171.213.39.160:9100/udp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川频道",SCTV-6高清
-http://171.213.39.160:9100/udp/239.93.1.144:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",SCTV-7高清
-http://171.213.39.160:9100/udp/239.93.0.219:5140
-#EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川频道",SCTV-科教高清
-http://171.213.39.160:9100/udp/239.93.42.44:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",SCTV-四川乡村
-http://171.213.39.160:9100/udp/239.93.0.52:5140
-#EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川频道",CDTV-1高清
-http://171.213.39.160:9100/udp/239.93.0.16:5140
-#EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川频道",CDTV-2
-http://171.213.39.160:9100/udp/239.93.0.17:1239
-#EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川频道",CDTV-3
-http://171.213.39.160:9100/udp/239.93.0.18:1238
-#EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川频道",CDTV-4
-http://171.213.39.160:9100/udp/239.93.0.19:1250
-#EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川频道",CDTV-5高清
-http://171.213.39.160:9100/udp/239.93.1.231:5140
-#EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川频道",CDTV-6
-http://171.213.39.160:9100/udp/239.93.0.21:1251
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",CDTV-8高清
-http://171.213.39.160:9100/udp/239.93.0.22:1252
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",i成都
-http://171.213.39.160:9100/udp/239.93.1.104:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",蓉城先锋
-http://171.213.39.160:9100/udp/239.93.0.91:2101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",高新电视台
-https://4grhdgmtsfa3dncjqghao.ourdvsss.com/quxian.pull.cditv.cn/live/gaoxin.flv/playlist.m3u8?wsSecret=b5f281e5e5118d4cdb8f9327033eec86&wsTime=65f58fbf&wsSession=100e980194be02f2af75069b-171059193682389&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",锦江电视台
-https://4grhdgmtsfa3dncjqghao.ourdvsss.com/quxian.pull.cditv.cn/live/jinjiang.flv/playlist.m3u8?wsSecret=6e5629a90e0c5b5cfe96ccad22577d3d&wsTime=65f58fe1&wsSession=100e980194be02f2af75069b-171059196994572&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",青羊电视台
-https://4grhdgmtsfa3dncjqghay.ourdvsss.com/quxian.pull.cditv.cn/live/qingyang.flv/playlist.m3u8?wsSecret=29ad7d1d45ba758088c58b10f24cf8b5&wsTime=65f58ffa&wsSession=2a5a7129076f3ab82981cc8b-171059199551885&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",金牛电视台
-https://jntv.pull.cditv.cn/live/jntv.flv/playlist.m3u8?wsSecret=1b9535c3a69cf27962c2fbfaaf3ba374&wsTime=65f59012&wsSession=4de05a4a67a8ed907a602975-171059201981957&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",武侯电视台
-https://4grhdgmtsfa3dncjqge3o.ourdvsss.com/quxian.pull.cditv.cn/live/wuhou.flv/playlist.m3u8?wsSecret=8cf9742cc73f6819e218735b093795cb&wsTime=65f59026&wsSession=40083d7190d932021da6c068-171059203963238&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",成华电视台
-https://4grhdgmtsfa3dncjqgaho.ourdvsss.com/quxian.pull.cditv.cn/live/chenghua.flv/playlist.m3u8?wsSecret=3f1e82680d5cd6719e5836fa64b82835&wsTime=65f59042&wsSession=a35b334238fd69d9219722e0-171059206732254&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",龙泉电视台
-https://4grhdgmtsfa3dncjqghay.ourdvsss.com/quxian.pull.cditv.cn/live/longquanyi.flv/playlist.m3u8?wsSecret=3a3036bf22a4d69277de3b6ab7eb5f38&wsTime=65f5905b&wsSession=2a5a7129076f3ab82981cc8b-171059209301915&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",青白江电视台
-https://4grhdgmtsfa3dncjqga5y.ourdvsss.com/quxian.pull.cditv.cn/live/qingbaijiang.flv/playlist.m3u8?wsSecret=3bdd71fb6b6d44f391f651da1c88b27f&wsTime=65f5907a&wsSession=c0301df525d722f628dd0af6-171059212348668&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",新都电视台
-https://4grhdgmtsfa3dncjqgaho.ourdvsss.com/quxian.pull.cditv.cn/live/xindu.flv/playlist.m3u8?wsSecret=deb9eafa3e50086ffeb928ee7c8436d0&wsTime=65f59097&wsSession=a35b334238fd69d9219722e0-171059215344998&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",温江电视台
-https://4grhdgmtsfa3dncjqgh3y.ourdvsss.com/quxian.pull.cditv.cn/live/wenjiang.flv/playlist.m3u8?wsSecret=297b5f0c6d937aafe150dff9c993e28b&wsTime=65f590ba&wsSession=49287452c20b88484c197f5f-171059218745193&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",双流电视台
-https://4grhdgmtsfa3dncjqghay.ourdvsss.com/quxian.pull.cditv.cn/live/shuangliu.flv/playlist.m3u8?wsSecret=a08de722e3ca413e3c7faab82a716eae&wsTime=65f590d6&wsSession=2a5a7129076f3ab82981cc8b-171059221599840&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",郫县电视台
-https://4grhdgmtsfa3dncjqga5o.ourdvsss.com/quxian.pull.cditv.cn/live/pidu.flv/playlist.m3u8?wsSecret=62763bd82a722e864e8c6b201fe1ada7&wsTime=65f590f3&wsSession=f986000612e5bef7dbb59aa8-171059224461367&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",新津电视台
-https://4grhdgmtsfa3dncjqge3o.ourdvsss.com/quxian.pull.cditv.cn/live/xinjin.flv/playlist.m3u8?wsSecret=609f85b279fb22578330595b108be0da&wsTime=65f5911a&wsSession=40083d7190d932021da6c068-171059228350849&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",简阳电视台
-https://4grhdgmtsfa3dncjqgaho.ourdvsss.com/quxian.pull.cditv.cn/live/jianyang.flv/playlist.m3u8?wsSecret=4a689d101d605b6e2d7c1ba3ae9ccf00&wsTime=65f5913d&wsSession=a35b334238fd69d9219722e0-171059231887872&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",都江堰电视台
-https://4grhdgmtsfa3dncjqgaho.ourdvsss.com/quxian.pull.cditv.cn/live/dujiangyan.flv/playlist.m3u8?wsSecret=57a2041a336231204d847092f5afbe5c&wsTime=65f58ed3&wsSession=a35b334238fd69d9219722e0-171059170053037&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",彭州电视台
-https://4grhdgmtsfa3dncjqghao.ourdvsss.com/quxian.pull.cditv.cn/live/pengzhou.flv/playlist.m3u8?wsSecret=8ffa4b586d87faa81c4dbb1d87426dda&wsTime=65f5915c&wsSession=100e980194be02f2af75069b-171059234932079&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",邛崃电视台
-https://4grhdgmtsfa3dncjqghao.ourdvsss.com/quxian.pull.cditv.cn/live/qionglai.flv/playlist.m3u8?wsSecret=d969e4ba1afafc2270de4fa157f21c2f&wsTime=65f59188&wsSession=100e980194be02f2af75069b-171059239394894&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",崇州电视台
-https://4grhdgmtsfa3dncjqga5o.ourdvsss.com/quxian.pull.cditv.cn/live/chongzhou.flv/playlist.m3u8?wsSecret=54d4d1930841d9f39b5dc72382138959&wsTime=65f58bc6&wsSession=f986000612e5bef7dbb59aa8-171059091908379&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",金堂电视台
-https://4grhdgmtsfa3dncjqga5y.ourdvsss.com/quxian.pull.cditv.cn/live/jintang.flv/playlist.m3u8?wsSecret=01fb881f0554f0d0f86946feb11d231e&wsTime=65f591a8&wsSession=c0301df525d722f628dd0af6-171059242585308&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",大邑电视台
-https://4grhdgmtsfa3dncjqga5o.ourdvsss.com/quxian.pull.cditv.cn/live/dayi.flv/playlist.m3u8?wsSecret=8c7ed6391efd36c7e686e4301f52458a&wsTime=65f591c6&wsSession=f986000612e5bef7dbb59aa8-171059245543423&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",蒲江电视台
-https://4grhdgmtsfa3dncjqge3o.ourdvsss.com/quxian.pull.cditv.cn/live/pujiang.flv/playlist.m3u8?wsSecret=6918a1ead5c4ace8c361e0a02c5d4e7f&wsTime=65f591e4&wsSession=40083d7190d932021da6c068-171059248517113&wsIPSercert=0359bb428ce5ac9dbffd0c0c451c7c4b&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",熊猫24小时
-http://171.213.39.160:9100/udp/239.93.1.178:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川频道",红原月亮湾
-http://171.213.39.160:9100/udp/239.93.0.209:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",SCTV-2经济
+http://182.149.204.14:4000/udp/239.93.1.101:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",SCTV-3文化
+http://182.149.204.14:4000/udp/239.93.1.102:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",SCTV-4新闻
+http://182.149.204.14:4000/udp/239.93.0.47:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",SCTV-5影视文艺
+http://182.149.204.14:4000/udp/239.93.0.166:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",SCTV-6星空购物
+http://182.149.204.14:4000/udp/239.93.1.144:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",SCTV-7妇女儿童
+http://182.149.204.14:4000/udp/239.93.0.219:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",四川科教频道
+http://182.149.204.14:4000/udp/239.93.42.44:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",四川乡村频道
+http://182.149.204.14:4000/udp/239.93.0.52:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",四川康巴卫视
+http://182.149.204.14:4000/udp/239.93.0.41:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",四川峨眉电影
+http://182.149.204.14:4000/udp/239.93.0.252:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",CDTV-1
+http://182.149.204.14:4000/udp/239.93.0.16:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",CDTV-2
+http://182.149.204.14:4000/udp/239.93.0.17:1239
+#EXTINF:-1 tvg-logo="" group-title="四川频道",CDTV-3
+http://182.149.204.14:4000/udp/239.93.0.18:1238
+#EXTINF:-1 tvg-logo="" group-title="四川频道",CDTV-4
+http://182.149.204.14:4000/udp/239.93.0.19:1250
+#EXTINF:-1 tvg-logo="" group-title="四川频道",CDTV-5
+http://182.149.204.14:4000/udp/239.93.1.231:5140
+#EXTINF:-1 tvg-logo="" group-title="四川频道",CDTV-6
+http://182.149.204.14:4000/udp/239.93.0.21:1251
+#EXTINF:-1 tvg-logo="" group-title="四川频道",CDTV-8
+http://182.149.204.14:4000/udp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京频道",北京文艺
 http://115.171.80.101:8888/udp/225.1.8.22:8002
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="北京频道",北京科教
@@ -345,38 +288,6 @@ http://115.171.80.101:8888/udp/225.1.8.118:8002
 http://115.171.80.101:8888/udp/225.1.8.83:8000
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京频道",北京卡酷少儿
 http://115.171.80.101:8888/udp/225.1.8.35:8000
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京频道",北京冬奥纪实 4K
-http://115.171.80.101:8888/udp/225.1.8.120:8002
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京频道",北京冬奥纪实 4K
-http://115.171.80.101:8888/udp/225.1.8.164:8002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京频道",房山
-http://115.171.80.101:8888/udp/225.1.8.68:8002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京频道",朝阳融媒
-http://115.171.80.101:8888/udp/225.1.8.69:8002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京频道",密云
-http://115.171.80.101:8888/udp/225.1.8.75:8002
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东频道",广东珠江高清
-http://113.110.79.44:808/hls/105/index.m3u8
-#EXTINF:-1 tvg-id="7252" tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
-http://113.110.79.44:808/hls/129/index.m3u8
-#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东频道",广东新闻
-http://113.110.79.44:808/hls/106/index.m3u8
-#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="https://live.fanmingming.com/tv/广东公共.png" group-title="广东频道",广东公共
-http://113.110.79.44:808/hls/107/index.m3u8
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育
-http://113.110.79.44:808/hls/108/index.m3u8
-#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东频道",广东影视
-http://113.110.79.44:808/hls/110/index.m3u8
-#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="广东频道",广东少儿
-http://113.110.79.44:808/hls/111/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",云浮综合
-http://113.110.79.44:808/hls/200/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",云浮公共
-http://113.110.79.44:808/hls/201/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",湛江公共
-http://113.110.79.44:808/hls/3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png" group-title="广东频道",岭南戏曲
-http://113.110.79.44:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海频道",上海新闻
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
