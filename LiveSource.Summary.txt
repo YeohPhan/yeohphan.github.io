@@ -39,12 +39,11 @@ CGTN法语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 CGTN西语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN阿语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 卫视频道,#genre#
-凤凰中文,http://182.149.204.14:4000/udp/239.93.0.162:2192#http://182.149.204.14:4000/udp/239.93.1.9:2192
-凤凰资讯,http://182.149.204.14:4000/udp/239.93.0.118:2191#http://182.149.204.14:4000/udp/239.93.1.4:2191
-Channel-V,http://182.149.204.14:4000/udp/239.93.0.157:2194#http://182.149.204.14:4000/udp/239.93.1.7:2194
-Asia功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/playlist.m3u8
-天映频道,http://210.210.155.37/dr9445/h/h14/01.m3u8
-天映经典,http://210.210.155.35:80/uq2663/h/h239/02.m3u8
+凤凰中文,http://182.149.204.14:4000/udp/239.93.0.162:2192#http://182.149.204.14:4000/udp/239.93.1.9:2192#https://yang-1989.eu.org/jd/fhws
+凤凰资讯,http://182.149.204.14:4000/udp/239.93.0.118:2191#http://182.149.204.14:4000/udp/239.93.1.4:2191#https://yang-1989.eu.org/jd/fhzx
+凤凰香港,https://yang-1989.eu.org/jd/fhxg
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+澳门卫视,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8#http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 星空卫视,http://182.149.204.14:4000/udp/239.93.0.156:2193#http://182.149.204.14:4000/udp/239.93.1.10:2193
 北京卫视,http://[2409:8087:7001:20:2::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
 湖南卫视,http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
@@ -118,6 +117,28 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 家庭理财,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
 劲爆体育,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8
+境外频道,#genre#
+Jade翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=402202920046895#http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+J2台,https://live.hkdvb.com/hls/live/82.m3u8?token=402202920046895
+News新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=402202920046895
+Pearl明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=402202920046895
+Info財經 體育 資訊台,https://live.hkdvb.com/hls/live/85.m3u8?token=402202920046895
+HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=402202920046895
+HOY TV資訊台,https://live.hkdvb.com/hls/live/78.m3u8?token=402202920046895
+HOY國際財經台,https://live.hkdvb.com/hls/live/76.m3u8?token=402202920046895
+ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=402202920046895
+ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=402202920046895
+Now NEWS新聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=402202920046895
+Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=402202920046895
+港台電視 31,https://live.hkdvb.com/hls/live/31.m3u8?token=402202920046895
+港台電視 32,https://live.hkdvb.com/hls/live/32.m3u8?token=402202920046895
+港台電視 33,https://live.hkdvb.com/hls/live/33.m3u8?token=402202920046895
+港台電視 34,https://live.hkdvb.com/hls/live/34.m3u8?token=402202920046895
+港台電視 35,https://live.hkdvb.com/hls/live/35.m3u8?token=402202920046895
+Channel-V,http://182.149.204.14:4000/udp/239.93.0.157:2194#http://182.149.204.14:4000/udp/239.93.1.7:2194
+天映频道,http://210.210.155.37/dr9445/h/h14/01.m3u8
+天映经典,http://210.210.155.35:80/uq2663/h/h239/02.m3u8
+Asia功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/playlist.m3u8
 四川频道,#genre#
 SCTV-2经济,http://182.149.204.14:4000/udp/239.93.1.101:5140
 SCTV-3文化,http://182.149.204.14:4000/udp/239.93.1.102:5140
