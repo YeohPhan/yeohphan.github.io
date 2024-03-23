@@ -118,7 +118,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 家庭理财,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
 劲爆体育,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8
 境外频道,#genre#
-Jade翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=402202920046895#http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+Jade翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 J2台,https://live.hkdvb.com/hls/live/82.m3u8?token=402202920046895
 News新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=402202920046895
 Pearl明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=402202920046895
