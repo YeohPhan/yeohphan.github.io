@@ -839,10 +839,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="IPTV港澳台",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="IPTV港澳台",广东珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="IPTV港澳台",广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="IPTV港澳台",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://epg.112114.xyz/logo/澳视卫星.png" group-title="IPTV港澳台",澳视卫星
