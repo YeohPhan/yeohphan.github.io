@@ -1,44 +1,30 @@
 #EXTM3U name="广东电信IPTV"
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视时移专用(广东卫视)
-http://192.168.3.2:4022/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-http://192.168.3.2:4022/udp/239.77.0.4:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-http://192.168.3.2:4022/udp/239.77.1.152:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-http://192.168.3.2:4022/udp/239.77.1.19:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视4k超高清25p
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视4K-25P
 http://192.168.3.2:4022/udp/239.77.0.65:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视4k超高清
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视4K-50P
 http://192.168.3.2:4022/udp/239.77.0.66:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
 http://192.168.3.2:4022/udp/239.77.0.166:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
-http://192.168.3.2:4022/udp/239.77.1.96:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
-http://192.168.3.2:4022/udp/239.77.1.16:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 25p 4K
-http://192.168.3.2:4022/udp/239.77.0.27:5146
+#EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江超清
+http://192.168.3.2:4022/udp/239.77.0.114:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
 http://192.168.3.2:4022/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
 http://192.168.3.2:4022/udp/239.77.1.94:5146
-#EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江超清
-http://192.168.3.2:4022/udp/239.77.0.114:5146
 #EXTINF:-1 tvg-name="广东新闻" group-title="IPTV-广东电视台",广东新闻
 http://192.168.3.2:4022/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东民生" group-title="IPTV-广东电视台",广东民生
 http://192.168.3.2:4022/udp/239.77.0.225:5146
-#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育
-http://192.168.3.2:4022/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
-http://192.168.3.2:4022/udp/239.77.1.97:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育超清
 http://192.168.3.2:4022/udp/239.77.0.168:5146
-#EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教
-http://192.168.3.2:4022/udp/239.77.0.85:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育
+http://192.168.3.2:4022/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育
+http://192.168.3.2:4022/udp/239.77.1.97:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教超清
 http://192.168.3.2:4022/udp/239.77.0.167:5146
+#EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教
+http://192.168.3.2:4022/udp/239.77.0.85:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
 http://192.168.3.2:4022/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
@@ -51,32 +37,28 @@ http://192.168.3.2:4022/udp/239.77.0.250:5146
 http://192.168.3.2:4022/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通
 http://192.168.3.2:4022/udp/239.77.1.15:5146
-#EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物-精选
-http://192.168.3.2:4022/udp/239.77.0.19:5146
-#EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物
-http://192.168.3.2:4022/udp/239.77.0.22:5146
 #EXTINF:-1 tvg-name="岭南戏曲" group-title="IPTV-广东电视台",岭南戏曲
 http://192.168.3.2:4022/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-name="现代教育" group-title="IPTV-广东电视台",现代教育
 http://192.168.3.2:4022/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 http://192.168.3.2:4022/udp/239.77.0.20:5146
+#EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K
+http://192.168.3.2:4022/udp/239.77.1.237:5146
 #EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K超高清
 http://192.168.3.2:4022/udp/239.77.0.244:5146
-#EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K超高清 窄色域 30
+#EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K超高清窄色域30
 http://192.168.3.2:4022/udp/239.77.0.245:5146
-#EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K 宽色域AVS2(4k) (AVS2)
-http://192.168.3.2:4022/udp/239.77.0.252:5146
-#EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K 4K
-http://192.168.3.2:4022/udp/239.77.1.237:5146
 #EXTINF:-1 tvg-name="广州综合" group-title="IPTV-广州电视台",广州综合高清
 http://192.168.3.2:4022/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州新闻" group-title="IPTV-广州电视台",广州新闻高清
 http://192.168.3.2:4022/udp/239.253.43.72:5146
 #EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市4K
 http://192.168.3.2:4022/udp/239.253.43.99:5146
-#EXTINF:-1 tvg-name="深圳卫视时移专用(深圳卫视)" group-title="IPTV-深圳电视台",深圳卫视时移专用(深圳卫视)
-http://192.168.3.2:4022/udp/239.77.0.92:5146
+#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视4K-25P
+http://192.168.3.2:4022/udp/239.77.1.191:5146
+#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视4K-25P
+http://192.168.3.2:4022/udp/239.77.1.14:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
 http://192.168.3.2:4022/udp/239.77.0.9:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
@@ -87,18 +69,6 @@ http://192.168.3.2:4022/udp/239.77.1.107:5146
 http://192.168.3.2:4022/udp/239.77.1.189:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
 http://192.168.3.2:4022/udp/239.77.1.148:5146
-#EXTINF:-1 tvg-name="深圳卫视4k超" group-title="IPTV-深圳电视台",深圳卫视4k超高清
-http://192.168.3.2:4022/udp/239.77.0.67:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视超清
-http://192.168.3.2:4022/udp/239.77.0.130:5146
-#EXTINF:-1 tvg-name="深圳卫视 25p" group-title="IPTV-深圳电视台",深圳卫视 25p 4K
-http://192.168.3.2:4022/udp/239.77.1.14:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K (AVS2)
-http://192.168.3.2:4022/udp/239.77.1.24:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K
-http://192.168.3.2:4022/udp/239.77.1.191:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K
-http://192.168.3.2:4022/udp/239.77.1.194:5146
 #EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道高清
 http://192.168.3.2:4022/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道高清
@@ -167,8 +137,6 @@ http://192.168.3.2:4022/udp/239.253.43.45:5146
 http://192.168.3.2:4022/udp/239.253.43.46:5146
 #EXTINF:-1 tvg-name="佛山公共" group-title="IPTV-广东地方台",佛山公共高清
 http://192.168.3.2:4022/udp/239.253.43.53:5146
-#EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
-http://192.168.3.2:4022/udp/239.77.0.236:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海高清
 http://192.168.3.2:4022/udp/239.253.43.54:5146
 #EXTINF:-1 tvg-name="佛山顺德" group-title="IPTV-广东地方台",佛山顺德高清
@@ -195,38 +163,17 @@ http://192.168.3.2:4022/udp/239.253.43.124:5146
 http://192.168.3.2:4022/udp/239.253.43.82:5146
 #EXTINF:-1 tvg-name="阳江-2" group-title="IPTV-广东地方台",阳江-2高清
 http://192.168.3.2:4022/udp/239.253.43.83:5146
-#EXTINF:-1 tvg-name="CCTV1" group-title="IPTV-央视",CCTV1-1M开机标清
-http://192.168.3.2:4022/udp/239.77.0.14:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1综合
-http://192.168.3.2:4022/udp/239.77.0.30:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
-http://192.168.3.2:4022/udp/239.77.1.144:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
-http://192.168.3.2:4022/udp/239.77.1.17:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清(CCTV -1综合高清)
-http://192.168.3.2:4022/udp/239.77.0.86:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清4M
-http://192.168.3.2:4022/udp/239.77.0.119:5146
+
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1超清
 http://192.168.3.2:4022/udp/239.77.0.129:5146
+#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清4M
+http://192.168.3.2:4022/udp/239.77.0.119:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2财经
 http://192.168.3.2:4022/udp/239.77.0.31:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清
 http://192.168.3.2:4022/udp/239.77.1.158:5146
-#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清 (CAVS)
-http://192.168.3.2:4022/udp/239.253.43.17:5146
-#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清测试(CCTV -2财经高清)
-http://192.168.3.2:4022/udp/239.77.0.137:5146
-#EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3综艺
-http://192.168.3.2:4022/udp/239.77.0.32:5146
 #EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3高清
 http://192.168.3.2:4022/udp/239.77.0.169:5146
-#EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3超清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.175:5146
-#EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4中文国际
-http://192.168.3.2:4022/udp/239.77.0.33:5146
-#EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
-http://192.168.3.2:4022/udp/239.77.1.163:5146
 #EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
 http://192.168.3.2:4022/udp/239.77.1.166:5146
 #EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
@@ -235,108 +182,52 @@ http://192.168.3.2:4022/udp/239.77.0.78:5146
 http://192.168.3.2:4022/udp/239.253.43.121:5146
 #EXTINF:-1 tvg-name="CCTV4中文国际欧洲" group-title="IPTV-央视",CCTV4中文国际欧洲高清
 http://192.168.3.2:4022/udp/239.253.43.120:5146
-#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5体育
-http://192.168.3.2:4022/udp/239.77.0.34:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
 http://192.168.3.2:4022/udp/239.77.0.170:5146
-#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5超清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.177:5146
-#EXTINF:-1 tvg-name="CCTV5+" group-title="IPTV-央视",CCTV5+体育高清-测试
-http://192.168.3.2:4022/udp/239.77.0.87:5146
 #EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+高清
 http://192.168.3.2:4022/udp/239.77.1.31:5146
-#EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6电影
-http://192.168.3.2:4022/udp/239.77.0.35:5146
 #EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6高清
 http://192.168.3.2:4022/udp/239.77.0.171:5146
-#EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6超清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.178:5146
-#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7国防军事
-http://192.168.3.2:4022/udp/239.77.0.36:5146
-#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
-http://192.168.3.2:4022/udp/239.77.1.167:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
 http://192.168.3.2:4022/udp/239.77.1.159:5146
-#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清测试(CCTV -7军事农业高清)
-http://192.168.3.2:4022/udp/239.77.0.138:5146
-#EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8电视剧
-http://192.168.3.2:4022/udp/239.77.0.37:5146
 #EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8高清
 http://192.168.3.2:4022/udp/239.77.0.172:5146
-#EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8超清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.181:5146
-#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9纪录
-http://192.168.3.2:4022/udp/239.77.0.38:5146
 #EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清
 http://192.168.3.2:4022/udp/239.77.1.160:5146
-#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.1.168:5146
-#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清测试
-http://192.168.3.2:4022/udp/239.77.0.135:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10科教
-http://192.168.3.2:4022/udp/239.77.0.39:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
 http://192.168.3.2:4022/udp/239.77.1.113:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.1.169:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清测试(CCTV-10科教高清)
-http://192.168.3.2:4022/udp/239.77.0.134:5146
-#EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11戏曲
-http://192.168.3.2:4022/udp/239.77.0.40:5146
 #EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11高清
 http://192.168.3.2:4022/udp/239.77.1.108:5146
-#EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11高清
-http://192.168.3.2:4022/udp/239.77.1.238:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12社会与法
-http://192.168.3.2:4022/udp/239.77.0.41:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清
 http://192.168.3.2:4022/udp/239.77.1.109:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清
-http://192.168.3.2:4022/udp/239.77.1.170:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.1.190:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清测试
-http://192.168.3.2:4022/udp/239.77.0.136:5146
-#EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13新闻
-http://192.168.3.2:4022/udp/239.77.0.42:5146
 #EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
 http://192.168.3.2:4022/udp/239.253.43.196:5146
 #EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
 http://192.168.3.2:4022/udp/239.77.0.188:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14少儿
-http://192.168.3.2:4022/udp/239.77.0.43:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 http://192.168.3.2:4022/udp/239.77.1.161:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 http://192.168.3.2:4022/udp/239.77.1.171:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清测试
-http://192.168.3.2:4022/udp/239.77.0.133:5146
-#EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15音乐
-http://192.168.3.2:4022/udp/239.77.0.44:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
 http://192.168.3.2:4022/udp/239.77.1.120:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
 http://192.168.3.2:4022/udp/239.77.1.239:5146
 #EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
 http://192.168.3.2:4022/udp/239.77.0.165:5146
-#EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业
-http://192.168.3.2:4022/udp/239.77.0.115:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17高清
 http://192.168.3.2:4022/udp/239.77.1.121:5146
-#EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业高清
+#EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17高清
 http://192.168.3.2:4022/udp/239.77.0.198:5146
+#EXTINF:-1 tvg-name="CCTV4K" group-title="IPTV-央视",CCTV4K 4K
+http://192.168.3.2:4022/udp/239.77.1.180:5146
 #EXTINF:-1 tvg-name="CCTV4K" group-title="IPTV-央视",CCTV4K-25P
 http://192.168.3.2:4022/udp/239.77.0.194:5146
 #EXTINF:-1 tvg-name="CCTV4K" group-title="IPTV-央视",CCTV4K-50P
 http://192.168.3.2:4022/udp/239.77.0.174:5146
-#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
-http://192.168.3.2:4022/udp/239.77.1.180:5146
-#EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
-http://192.168.3.2:4022/udp/239.77.0.45:5146
+#EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN高清
+http://192.168.3.2:4022/udp/239.77.0.199:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 http://192.168.3.2:4022/udp/239.77.1.27:5146
-#EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN英语高清
-http://192.168.3.2:4022/udp/239.77.0.199:5146
 #EXTINF:-1 tvg-name="CGTN英文记录" group-title="IPTV-央视",CGTN英文记录高清
 http://192.168.3.2:4022/udp/239.253.43.122:5146
 #EXTINF:-1 tvg-name="CGTN西班牙语" group-title="IPTV-央视",CGTN西班牙语高清
@@ -347,172 +238,123 @@ http://192.168.3.2:4022/udp/239.77.0.228:5146
 http://192.168.3.2:4022/udp/239.253.43.200:5146
 #EXTINF:-1 tvg-name="CGTN俄语" group-title="IPTV-央视",CGTN俄语高清
 http://192.168.3.2:4022/udp/239.253.43.201:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视时移专用(湖南卫视)
-http://192.168.3.2:4022/udp/239.77.0.88:5146
+
+#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视4K
+http://192.168.3.2:4022/udp/239.77.0.56:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清
 http://192.168.3.2:4022/udp/239.77.0.6:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清
 http://192.168.3.2:4022/udp/239.77.1.5:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.1.129:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视4k超高清
-http://192.168.3.2:4022/udp/239.77.0.56:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视超清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.127:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视 4K (AVS2)
-http://192.168.3.2:4022/udp/239.77.1.30:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视时移专用(浙江卫视)
-http://192.168.3.2:4022/udp/239.77.0.89:5146
+#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视4K
+http://192.168.3.2:4022/udp/239.77.0.58:5146
 #EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
 http://192.168.3.2:4022/udp/239.77.0.12:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.1.150:5146
 #EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
 http://192.168.3.2:4022/udp/239.77.1.33:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视4k超高清
-http://192.168.3.2:4022/udp/239.77.0.58:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视超清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.125:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视 4K (AVS2)
-http://192.168.3.2:4022/udp/239.77.1.32:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视时移专用(江苏卫视)
-http://192.168.3.2:4022/udp/239.77.0.90:5146
+#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视4K
+http://192.168.3.2:4022/udp/239.77.0.57:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
 http://192.168.3.2:4022/udp/239.77.0.7:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
 http://192.168.3.2:4022/udp/239.77.1.18:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.1.149:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视4k超高清
-http://192.168.3.2:4022/udp/239.77.0.57:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视超清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.126:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视 4K (AVS2)
-http://192.168.3.2:4022/udp/239.77.1.36:5146
-#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视时移专用(东方卫视)
-http://192.168.3.2:4022/udp/239.77.0.98:5146
+#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视4K
+http://192.168.3.2:4022/udp/239.77.0.59:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清
 http://192.168.3.2:4022/udp/239.77.0.5:5146
-#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.1.156:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清
 http://192.168.3.2:4022/udp/239.77.1.218:5146
-#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视4k超高清
-http://192.168.3.2:4022/udp/239.77.0.59:5146
-#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视 4K (AVS2)
-http://192.168.3.2:4022/udp/239.77.1.34:5146
-#EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视
-http://192.168.3.2:4022/udp/239.77.0.183:5146
 #EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
 http://192.168.3.2:4022/udp/239.77.1.92:5146
-#EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.1.157:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视时移专用(北京卫视)
-http://192.168.3.2:4022/udp/239.77.0.91:5146
+#EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视
+http://192.168.3.2:4022/udp/239.77.0.183:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视4K超高清
+http://192.168.3.2:4022/udp/239.77.0.2:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视4K超高清
+http://192.168.3.2:4022/udp/239.77.0.3:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视4K
+http://192.168.3.2:4022/udp/239.77.0.233:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视4K
+http://192.168.3.2:4022/udp/239.77.1.13:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
 http://192.168.3.2:4022/udp/239.77.1.151:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
 http://192.168.3.2:4022/udp/239.77.0.232:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
 http://192.168.3.2:4022/udp/239.77.1.4:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视4K超高清
-http://192.168.3.2:4022/udp/239.77.0.2:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视4K超高清
-http://192.168.3.2:4022/udp/239.77.0.3:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
-http://192.168.3.2:4022/udp/239.77.0.233:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
-http://192.168.3.2:4022/udp/239.77.1.13:5146
-#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视
-http://192.168.3.2:4022/udp/239.77.0.97:5146
+#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视超清
+http://192.168.3.2:4022/udp/239.77.0.131:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
 http://192.168.3.2:4022/udp/239.77.1.182:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
 http://192.168.3.2:4022/udp/239.77.1.141:5146
-#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视超清
-http://192.168.3.2:4022/udp/239.77.0.131:5146
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视时移专用(山东卫视)
-http://192.168.3.2:4022/udp/239.77.0.94:5146
+#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视
+http://192.168.3.2:4022/udp/239.77.0.97:5146
+#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视4K
+http://192.168.3.2:4022/udp/239.77.0.61:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
 http://192.168.3.2:4022/udp/239.77.0.8:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
 http://192.168.3.2:4022/udp/239.77.1.142:5146
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.1.153:5146
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视4k超高清
-http://192.168.3.2:4022/udp/239.77.0.61:5146
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视超清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.132:5146
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视 4K
-http://192.168.3.2:4022/udp/239.77.1.37:5146
 #EXTINF:-1 tvg-name="江西卫视" group-title="IPTV-卫视",江西卫视
 http://192.168.3.2:4022/udp/239.77.0.149:5146
 #EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视
 http://192.168.3.2:4022/udp/239.77.0.95:5146
+#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视超清
+http://192.168.3.2:4022/udp/239.77.0.128:5146
 #EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
 http://192.168.3.2:4022/udp/239.77.1.93:5146
 #EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
 http://192.168.3.2:4022/udp/239.77.1.174:5146
-#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视超清
-http://192.168.3.2:4022/udp/239.77.0.128:5146
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视
-http://192.168.3.2:4022/udp/239.77.0.123:5146
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视高清
 http://192.168.3.2:4022/udp/239.77.1.103:5146
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视超清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.161:5146
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视
-http://192.168.3.2:4022/udp/239.77.0.93:5146
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视
+http://192.168.3.2:4022/udp/239.77.0.123:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
 http://192.168.3.2:4022/udp/239.77.1.6:5146
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
-http://192.168.3.2:4022/udp/239.77.1.179:5146
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视
+http://192.168.3.2:4022/udp/239.77.0.93:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视超清
 http://192.168.3.2:4022/udp/239.77.0.124:5146
-#EXTINF:-1 tvg-name="贵州卫视" group-title="IPTV-卫视",贵州卫视
-http://192.168.3.2:4022/udp/239.77.0.230:5146
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
+http://192.168.3.2:4022/udp/239.77.1.179:5146
 #EXTINF:-1 tvg-name="贵州卫视" group-title="IPTV-卫视",贵州卫视高清
 http://192.168.3.2:4022/udp/239.77.1.221:5146
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视时移专用(四川卫视)
-http://192.168.3.2:4022/udp/239.77.0.159:5146
+#EXTINF:-1 tvg-name="贵州卫视" group-title="IPTV-卫视",贵州卫视
+http://192.168.3.2:4022/udp/239.77.0.230:5146
+#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视4K
+http://192.168.3.2:4022/udp/239.77.0.60:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视高清
 http://192.168.3.2:4022/udp/239.77.0.11:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视高清
 http://192.168.3.2:4022/udp/239.77.1.215:5146
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视4k超高清
-http://192.168.3.2:4022/udp/239.77.0.60:5146
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视超清 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.163:5146
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视 4K (AVS2)
-http://192.168.3.2:4022/udp/239.77.1.38:5146
-#EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视
-http://192.168.3.2:4022/udp/239.77.0.17:5146
 #EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视高清
 http://192.168.3.2:4022/udp/239.77.1.229:5146
-#EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视
-http://192.168.3.2:4022/udp/239.253.43.100:5146
+#EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视
+http://192.168.3.2:4022/udp/239.77.0.17:5146
 #EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
 http://192.168.3.2:4022/udp/239.253.43.37:5146
-#EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视
-http://192.168.3.2:4022/udp/239.77.0.182:5146
+#EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视
+http://192.168.3.2:4022/udp/239.253.43.100:5146
 #EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
 http://192.168.3.2:4022/udp/239.77.1.162:5146
-#EXTINF:-1 tvg-name="河北卫视" group-title="IPTV-卫视",河北卫视
-http://192.168.3.2:4022/udp/239.77.0.148:5146
+#EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视
+http://192.168.3.2:4022/udp/239.77.0.182:5146
 #EXTINF:-1 tvg-name="河北卫视" group-title="IPTV-卫视",河北卫视高清
 http://192.168.3.2:4022/udp/239.77.1.214:5146
-#EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视
-http://192.168.3.2:4022/udp/239.77.0.146:5146
+#EXTINF:-1 tvg-name="河北卫视" group-title="IPTV-卫视",河北卫视
+http://192.168.3.2:4022/udp/239.77.0.148:5146
 #EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视高清
 http://192.168.3.2:4022/udp/239.77.1.104:5146
-#EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视
-http://192.168.3.2:4022/udp/239.77.0.139:5146
+#EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视
+http://192.168.3.2:4022/udp/239.77.0.146:5146
 #EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视高清
 http://192.168.3.2:4022/udp/239.253.43.36:5146
-#EXTINF:-1 tvg-name="吉林卫视" group-title="IPTV-卫视",吉林卫视
-http://192.168.3.2:4022/udp/239.77.0.150:5146
+#EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视
+http://192.168.3.2:4022/udp/239.77.0.139:5146
 #EXTINF:-1 tvg-name="吉林卫视" group-title="IPTV-卫视",吉林卫视高清
 http://192.168.3.2:4022/udp/239.77.1.111:5146
+#EXTINF:-1 tvg-name="吉林卫视" group-title="IPTV-卫视",吉林卫视
+http://192.168.3.2:4022/udp/239.77.0.150:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 http://192.168.3.2:4022/udp/239.77.0.68:5146
 #EXTINF:-1 tvg-name="山西卫视" group-title="IPTV-卫视",山西卫视
@@ -523,50 +365,51 @@ http://192.168.3.2:4022/udp/239.77.0.70:5146
 http://192.168.3.2:4022/udp/239.77.1.55:5146
 #EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视
 http://192.168.3.2:4022/udp/239.253.43.125:5146
-#EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视
-http://192.168.3.2:4022/udp/239.253.43.101:5146
 #EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视高清
 http://192.168.3.2:4022/udp/239.253.43.35:5146
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视
-http://192.168.3.2:4022/udp/239.77.0.49:5146
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视
-http://192.168.3.2:4022/udp/239.77.0.73:5146
+#EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视
+http://192.168.3.2:4022/udp/239.253.43.101:5146
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视高清
 http://192.168.3.2:4022/udp/239.77.1.28:5146
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视高清
 http://192.168.3.2:4022/udp/239.77.1.246:5146
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视
+http://192.168.3.2:4022/udp/239.77.0.49:5146
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视
+http://192.168.3.2:4022/udp/239.77.0.73:5146
+#EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV-卫视",西藏卫视高清
+http://192.168.3.2:4022/udp/239.77.1.26:5146
 #EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV-卫视",西藏卫视
 http://192.168.3.2:4022/udp/239.77.0.46:5146
 #EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV-卫视",西藏卫视
 http://192.168.3.2:4022/udp/239.77.0.74:5146
-#EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV-卫视",西藏卫视高清
-http://192.168.3.2:4022/udp/239.77.1.26:5146
-#EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视
-http://192.168.3.2:4022/udp/239.77.0.47:5146
-#EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视
-http://192.168.3.2:4022/udp/239.77.0.75:5146
 #EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视高清
 http://192.168.3.2:4022/udp/239.253.43.202:5146
 #EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视高清
 http://192.168.3.2:4022/udp/239.77.1.25:5146
+#EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视
+http://192.168.3.2:4022/udp/239.77.0.47:5146
+#EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视
+http://192.168.3.2:4022/udp/239.77.0.75:5146
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="IPTV-卫视",甘肃卫视
 http://192.168.3.2:4022/udp/239.77.0.189:5146
+#EXTINF:-1 tvg-name="兵团卫视" group-title="IPTV-卫视",兵团卫视高清
+http://192.168.3.2:4022/udp/239.77.1.29:5146
 #EXTINF:-1 tvg-name="兵团卫视" group-title="IPTV-卫视",兵团卫视
 http://192.168.3.2:4022/udp/239.77.0.48:5146
 #EXTINF:-1 tvg-name="兵团卫视" group-title="IPTV-卫视",兵团卫视
 http://192.168.3.2:4022/udp/239.77.0.77:5146
-#EXTINF:-1 tvg-name="兵团卫视" group-title="IPTV-卫视",兵团卫视高清
-http://192.168.3.2:4022/udp/239.77.1.29:5146
 #EXTINF:-1 tvg-name="厦门卫视" group-title="IPTV-卫视",厦门卫视
 http://192.168.3.2:4022/udp/239.77.0.96:5146
 #EXTINF:-1 tvg-name="三沙卫视" group-title="IPTV-卫视",三沙卫视
 http://192.168.3.2:4022/udp/239.253.43.113:5146
 #EXTINF:-1 tvg-name="三沙卫视" group-title="IPTV-卫视",三沙卫视
 http://192.168.3.2:4022/udp/239.77.1.117:5146
-#EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",吉林延边卫视
+#EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",延边卫视
 http://192.168.3.2:4022/udp/239.77.0.10:5146
 #EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",延边卫视
 http://192.168.3.2:4022/udp/239.77.1.99:5146
+
 #EXTINF:-1 tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
 http://192.168.3.2:4022/udp/239.253.43.9:5146
 #EXTINF:-1 tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
@@ -605,7 +448,7 @@ http://192.168.3.2:4022/udp/239.253.43.16:5146
 http://192.168.3.2:4022/udp/239.253.43.26:5146
 #EXTINF:-1 tvg-name="央视文化精品" group-title="IPTV-央视网台",央视文化精品高清
 http://192.168.3.2:4022/udp/239.253.43.13:5146
-#EXTINF:-1 tvg-name="央视精品" group-title="IPTV-央视网台",央视精品高清
+#EXTINF:-1 tvg-name="央视文化精品" group-title="IPTV-央视网台",央视文化精品高清
 http://192.168.3.2:4022/udp/239.253.43.27:5146
 #EXTINF:-1 tvg-name="第一剧场" group-title="IPTV-央视网台",第一剧场高清
 http://192.168.3.2:4022/udp/239.253.43.15:5146
@@ -635,16 +478,16 @@ http://192.168.3.2:4022/udp/239.77.0.164:5146
 http://192.168.3.2:4022/udp/239.77.0.81:5146
 #EXTINF:-1 tvg-name="优漫卡通" group-title="IPTV-数字付费",优漫卡通
 http://192.168.3.2:4022/udp/239.77.0.222:5146
-#EXTINF:-1 tvg-name="CETV-1" group-title="IPTV-数字付费",CETV-1
-http://192.168.3.2:4022/udp/239.77.0.200:5146
 #EXTINF:-1 tvg-name="CETV-1" group-title="IPTV-数字付费",CETV-1高清
 http://192.168.3.2:4022/udp/239.77.1.222:5146
+#EXTINF:-1 tvg-name="CETV-1" group-title="IPTV-数字付费",CETV-1
+http://192.168.3.2:4022/udp/239.77.0.200:5146
 #EXTINF:-1 tvg-name="CETV2" group-title="IPTV-数字付费",CETV2
 http://192.168.3.2:4022/udp/239.77.0.28:5146
-#EXTINF:-1 tvg-name="CETV4" group-title="IPTV-数字付费",CETV4
-http://192.168.3.2:4022/udp/239.253.43.114:5146
 #EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
 http://192.168.3.2:4022/udp/239.253.43.40:5146
+#EXTINF:-1 tvg-name="CETV4" group-title="IPTV-数字付费",CETV4
+http://192.168.3.2:4022/udp/239.253.43.114:5146
 #EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
 http://192.168.3.2:4022/udp/239.77.1.122:5146
 #EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
@@ -653,7 +496,7 @@ http://192.168.3.2:4022/udp/239.77.1.114:5146
 http://192.168.3.2:4022/udp/239.77.0.180:5146
 #EXTINF:-1 tvg-name="山东教育" group-title="IPTV-数字付费",山东教育
 http://192.168.3.2:4022/udp/239.77.0.83:5146
-#EXTINF:-1 tvg-name="山东教育" group-title="IPTV-数字付费",山东教育卫视
+#EXTINF:-1 tvg-name="山东教育" group-title="IPTV-数字付费",山东教育
 http://192.168.3.2:4022/udp/239.77.1.35:5146
 #EXTINF:-1 tvg-name="财富天下" group-title="IPTV-数字付费",财富天下
 http://192.168.3.2:4022/udp/239.77.0.113:5146
@@ -665,10 +508,6 @@ http://192.168.3.2:4022/udp/239.77.0.15:5146
 http://192.168.3.2:4022/udp/239.77.0.145:5146
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实高清
 http://192.168.3.2:4022/udp/239.77.1.217:5146
-#EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实高清测试
-http://192.168.3.2:4022/udp/239.77.0.160:5146
-#EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试 (CAVS)
-http://192.168.3.2:4022/udp/239.77.0.162:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
 http://192.168.3.2:4022/udp/239.253.43.126:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
@@ -679,7 +518,7 @@ http://192.168.3.2:4022/udp/239.77.1.115:5146
 http://192.168.3.2:4022/udp/239.77.0.21:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
 http://192.168.3.2:4022/udp/239.77.0.226:5146
-#EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学频道
+#EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
 http://192.168.3.2:4022/udp/239.77.1.105:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 http://192.168.3.2:4022/udp/239.77.0.209:5146
@@ -737,252 +576,54 @@ http://192.168.3.2:4022/udp/239.77.0.102:5146
 http://192.168.3.2:4022/udp/239.77.1.86:5146
 #EXTINF:-1 tvg-name="IPTV魅力时尚" group-title="IPTV-IPTV频道",魅力时尚
 http://192.168.3.2:4022/udp/239.77.0.110:5146
-#EXTINF:-1 tvg-name="IPTV魅力时尚" group-title="IPTV-IPTV频道",IPTV魅力时尚
+#EXTINF:-1 tvg-name="IPTV魅力时尚" group-title="IPTV-IPTV频道",魅力时尚
 http://192.168.3.2:4022/udp/239.77.1.88:5146
 #EXTINF:-1 tvg-name="IPTV经典电影" group-title="IPTV-IPTV频道",经典电影
 http://192.168.3.2:4022/udp/239.77.0.104:5146
-#EXTINF:-1 tvg-name="IPTV经典电影" group-title="IPTV-IPTV频道",IPTV经典电影
+#EXTINF:-1 tvg-name="IPTV经典电影" group-title="IPTV-IPTV频道",经典电影
 http://192.168.3.2:4022/udp/239.77.1.89:5146
 #EXTINF:-1 tvg-name="IPTV热播剧场" group-title="IPTV-IPTV频道",热播剧场
 http://192.168.3.2:4022/udp/239.77.0.106:5146
-#EXTINF:-1 tvg-name="IPTV热播剧场" group-title="IPTV-IPTV频道",IPTV热播剧场
+#EXTINF:-1 tvg-name="IPTV热播剧场" group-title="IPTV-IPTV频道",热播剧场
 http://192.168.3.2:4022/udp/239.77.1.90:5146
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="IPTV-IPTV频道",少儿动画
 http://192.168.3.2:4022/udp/239.77.0.109:5146
-#EXTINF:-1 tvg-name="IPTV少儿动画" group-title="IPTV-IPTV频道",IPTV少儿动画
+#EXTINF:-1 tvg-name="IPTV少儿动画" group-title="IPTV-IPTV频道",少儿动画
 http://192.168.3.2:4022/udp/239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV收视指南" group-title="IPTV-IPTV频道",收视指南
 http://192.168.3.2:4022/udp/239.77.0.111:5146
 
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="IPTV港澳台",凤凰中文
-https://mgev.188766.xyz/?migutoken=826165310855e49cbc2a4e5865891edd&id=hk_fhzw&type=dy
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="IPTV港澳台",凤凰资讯
-https://mgev.188766.xyz/?migutoken=9f088b74a901716675112dbf52be4b2f&id=hk_fhzx&type=dy
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="IPTV港澳台",凤凰香港
-https://mgev.188766.xyz/?migutoken=e83eae9be4038edfddf1c5f561510103&id=hk_fhhk&type=dy
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="IPTV港澳台",翡翠台
-https://mgev.188766.xyz/?migutoken=21f2510e8ebef73826d98efc2e69b9d8&id=hk_fct&type=dy
-#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="IPTV港澳台",翡翠台4K
-https://mgev.188766.xyz/?migutoken=0f1394d7fd414bbdabf7604b0808c6b9&id=hk_fct4k&type=dy
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="IPTV港澳台",无线新闻
-https://mgev.188766.xyz/?migutoken=88ae5edb7f7b88818c7dbee40ab36792&id=hk_wxxw&type=dy
-#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/NOW新闻台.png" group-title="IPTV港澳台",Now新闻台
-https://mgev.188766.xyz/?migutoken=d083f371578c2b864e49817a0c3b6f21&id=hk_now&type=dy
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/tvbplus.png" group-title="IPTV港澳台",TVB Plus
-https://mgev.188766.xyz/?migutoken=316afa99e3779b148b22e395b1ea4d97&id=hk_tvbp&type=dy
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/明珠台.png" group-title="IPTV港澳台",明珠台
-https://mgev.188766.xyz/?migutoken=b88fb99daaa57b79b15f74cb5b1cba4c&id=hk_mzt&type=dy
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/TVB星河.png" group-title="IPTV港澳台",TVB星河
-https://mgev.188766.xyz/?migutoken=9fb5a5b789b3e93ebaa1b6d40b7383d6&id=hk_tvbxh&type=dy
-#EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/TVB功夫.png" group-title="IPTV港澳台",TVB功夫
-https://mgev.188766.xyz/?migutoken=ff10f819a7c8ef49befcda427301facc&id=hk_yzwx&type=dy
-#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/八度空间.png" group-title="IPTV港澳台",八度空间
-https://mgev.188766.xyz/?migutoken=b3bfa8e7a2dbb35d13428becfe77a59c&id=hk_8tv&type=dy
-#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channelu.png" group-title="IPTV港澳台",CHU
-https://mgev.188766.xyz/?migutoken=f1de5648653e17ff9851a237eb7e066d&id=hk_chu&type=dy
-#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel5.png" group-title="IPTV港澳台",CH5
-https://mgev.188766.xyz/?migutoken=1ae823a21a9dbe46aac2e71c794dbe48&id=hk_ch5&type=dy
-#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel8.png" group-title="IPTV港澳台",CH8
-https://mgev.188766.xyz/?migutoken=4f65f1a77a74ef5aa910c1a0068598d7&id=hk_ch8&type=dy
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/澳视澳门.png" group-title="IPTV港澳台",澳视澳门
-https://mgev.188766.xyz/?migutoken=799e4cb7035b8b45ec5d657492e72941&id=hk_asam&type=dy
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/HOY77.png" group-title="IPTV港澳台",HOY77
-https://mgev.188766.xyz/?migutoken=676106728d78152d4024187affca8eb3&id=hk_hoy&type=dy
-
-
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="IPTV港澳台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="IPTV港澳台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="IPTV港澳台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="IPTV港澳台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="IPTV港澳台",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="IPTV港澳台",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)" tvg-logo="https://epg.112114.xyz/logo/翡翠台北美版(TVB J1).png" group-title="IPTV港澳台",翡翠台北美版(TVB J1)
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://epg.112114.xyz/logo/TVB J1.png" group-title="IPTV港澳台",TVB J1
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVB Plus.png" group-title="IPTV港澳台",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVB Plus.png" group-title="IPTV港澳台",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="IPTV港澳台",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="IPTV港澳台",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="IPTV港澳台",VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="IPTV港澳台",VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOY TV.png" group-title="IPTV港澳台",HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOY TV.png" group-title="IPTV港澳台",HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="IPTV港澳台",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="IPTV港澳台",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="IPTV港澳台",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="IPTV港澳台",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="IPTV港澳台",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="IPTV港澳台",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://epg.112114.xyz/logo/美亚电影.png" group-title="IPTV港澳台",美亚电影
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="IPTV港澳台",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="IPTV港澳台",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://epg.112114.xyz/logo/澳视卫星.png" group-title="IPTV港澳台",澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="IPTV港澳台",RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="IPTV港澳台",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-name="CCTV1港澳版" tvg-logo="https://epg.112114.xyz/logo/CCTV1港澳版.png" group-title="IPTV港澳台",CCTV1港澳版
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://epg.112114.xyz/logo/八度空间.png" group-title="IPTV港澳台",八度空间
-https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1 tvg-name="CH5" tvg-logo="https://epg.112114.xyz/logo/CH5.png" group-title="IPTV港澳台",CH5
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-name="CH8" tvg-logo="https://epg.112114.xyz/logo/CH8.png" group-title="IPTV港澳台",CH8
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-name="CHU" tvg-logo="https://epg.112114.xyz/logo/CHU.png" group-title="IPTV港澳台",CHU
-https://cdn6.163189.xyz/live/chu/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="IPTV港澳台",翡翠台
-http://php.jdshipin.com/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://epg.112114.xyz/logo/华丽翡翠台.png" group-title="IPTV港澳台",华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.112114.xyz/logo/无线新闻台.png" group-title="IPTV港澳台",无线新闻台
-http://php.jdshipin.com/smt.php?id=inews_twn
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="IPTV港澳台",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="IPTV港澳台",千禧经典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="IPTV港澳台",TVB娱乐新闻台
-http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://epg.112114.xyz/logo/天映频道.png" group-title="IPTV港澳台",天映频道
-http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="IPTV港澳台",天映经典
-http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://epg.112114.xyz/logo/Astro AOD.png" group-title="IPTV港澳台",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://epg.112114.xyz/logo/Astro AEC.png" group-title="IPTV港澳台",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://epg.112114.xyz/logo/爱奇艺.png" group-title="IPTV港澳台",爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://epg.112114.xyz/logo/Astro QJ.png" group-title="IPTV港澳台",Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://epg.112114.xyz/logo/Astro欢喜台.png" group-title="IPTV港澳台",Astro欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://epg.112114.xyz/logo/八度空间.png" group-title="IPTV港澳台",八度空间
-http://php.jdshipin.com/smt.php?id=TV8
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://epg.112114.xyz/logo/华丽翡翠台.png" group-title="IPTV港澳台",华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://epg.112114.xyz/logo/亚洲武侠.png" group-title="IPTV港澳台",亚洲武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://epg.112114.xyz/logo/TVB生活台.png" group-title="IPTV港澳台",TVB生活台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="IPTV港澳台",TVB娱乐新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.112114.xyz/logo/无线新闻台.png" group-title="IPTV港澳台",无线新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="IPTV港澳台",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-
-
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1983
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1984
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1985
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1986
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1987
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1988
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1989
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1990
-https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1991
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1992
-https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1993
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1994
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1995
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1996
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1997
-https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1998
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1999
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2000
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2001
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2002
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2003
-https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2004
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2005
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2006
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2007
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2008
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2009
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2010
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2011
-https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2012
-https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2013
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2014
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2015
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2016
-https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2017
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2018
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2019
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2020
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2021
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2022
-https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2023
-https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2025
-https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="粤语频道",凤凰中文
+https://mgev.188766.xyz/?migutoken=35920ffa885804f1cf58afd8fefd3667&id=hk_fhzw&type=dy
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="粤语频道",凤凰资讯
+https://mgev.188766.xyz/?migutoken=c62ea9edeecf8767fe57e9f9dfa82e87&id=hk_fhzx&type=dy
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="粤语频道",凤凰香港
+https://mgev.188766.xyz/?migutoken=0b61cef4ab2c8c5e440c217551687732&id=hk_fhhk&type=dy
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="粤语频道",翡翠台
+https://mgev.188766.xyz/?migutoken=d8f509faa98000290e42cd7a23601b97&id=hk_fct&type=dy
+#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="粤语频道",翡翠台4K
+https://mgev.188766.xyz/?migutoken=a9624fedd6f655bb17224da6b5894ca1&id=hk_fct4k&type=dy
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="粤语频道",无线新闻
+https://mgev.188766.xyz/?migutoken=153b1c8b59c1295b5dd1becac9e8d39a&id=hk_wxxw&type=dy
+#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/NOW新闻台.png" group-title="粤语频道",Now新闻台
+https://mgev.188766.xyz/?migutoken=2e51b92d6b1f3fc9ca45ff2f6463bb29&id=hk_now&type=dy
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/tvbplus.png" group-title="粤语频道",TVB Plus
+https://mgev.188766.xyz/?migutoken=b03a2483a0e264c923cd3dce6be63008&id=hk_tvbp&type=dy
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/明珠台.png" group-title="粤语频道",明珠台
+https://mgev.188766.xyz/?migutoken=cad5d25fa40a1805c9314fa0d85a73d1&id=hk_mzt&type=dy
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/TVB星河.png" group-title="粤语频道",TVB星河
+https://mgev.188766.xyz/?migutoken=37095bd306d02ac717a76b95ef4b1eb5&id=hk_tvbxh&type=dy
+#EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/TVB功夫.png" group-title="粤语频道",TVB功夫
+https://mgev.188766.xyz/?migutoken=ecd835b1fbc0b4898d3477b61af76a4e&id=hk_yzwx&type=dy
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/八度空间.png" group-title="粤语频道",八度空间
+https://mgev.188766.xyz/?migutoken=96e746ec7b922f31d8a35b187d28e1ef&id=hk_8tv&type=dy
+#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channelu.png" group-title="粤语频道",CHU
+https://mgev.188766.xyz/?migutoken=8cb9fba6445306b8d57e4b16d979b9b4&id=hk_chu&type=dy
+#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel5.png" group-title="粤语频道",CH5
+https://mgev.188766.xyz/?migutoken=35b9de820acf15c747227f480725c244&id=hk_ch5&type=dy
+#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel8.png" group-title="粤语频道",CH8
+https://mgev.188766.xyz/?migutoken=c8d747132eef0a56fae95c3c0ca29cd1&id=hk_ch8&type=dy
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/澳视澳门.png" group-title="粤语频道",澳视澳门
+https://mgev.188766.xyz/?migutoken=208adb0da121779001a7ea26227b9e72&id=hk_asam&type=dy
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/HOY77.png" group-title="粤语频道",HOY77
+https://mgev.188766.xyz/?migutoken=4df5ff9c17d73ab99007bb53b0b7bfd8&id=hk_hoy&type=dy
