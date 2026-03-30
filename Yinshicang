@@ -30,6 +30,7 @@
 {"key":"虎斑","name":"❤虎斑｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["http://103.45.162.207:20720"]}},
 
 //jar
+
 {"key":"荐片","name":"💡荐片｜影视","api":"csp_JianPian","type":3},
 {"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
 {"key":"农民影视","name":"💡农民｜影视","type":3,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
@@ -51,6 +52,8 @@
 {"key":"巧技五","name":"🔍艘艘┃影视","type":3,"api":"csp_qiao2","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"},
 
 //App
+
+
 {"key":"驿站","name":"👑驿站｜影视","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"site":"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt","dataKey":"dyyztvapiappyyds","dataIv":"dyyztvapiappyyds"}},
 {"key":"优兔","name":"👑优兔｜影视","type":3,"api":"csp_AppQi","searchable":1,"changeable":1,"ext":{"site":"https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt","dataKey":"UrWKPnmQWJA8AQzd","dataIv":"UrWKPnmQWJA8AQzd"}},
 {"key":"王子","name":"👑王子｜影视","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"url":"https://app.95112475.xyz","dataKey":"5a9w6x58dsq6z3a6","dataIv":"5a9w6x58dsq6z3a6"}},
@@ -65,6 +68,9 @@
 {"key":"奴娜","name":"👑奴娜｜影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.nntv.in/api.php/v1.vod"},
 
 //js
+
+
+
 {"key":"永乐","name":"🥇永乐｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js"},
 {"key":"金牌123","name":"🥇金牌｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金牌影院.js"},
 {"key":"海龟","name":"🥇海龟｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/海龟.js"},
