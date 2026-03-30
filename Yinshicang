@@ -12,6 +12,22 @@
 {"key":"config","name":"接口配置｜中心","type":3,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/0f8ea2f30bb7607d0e4603fe999b64f6.jpg;md5;fb2c84ce1e3d69aa669be42e7fd3539b","api": "csp_Config","searchable": 0},
 {"key":"配置中心","name":"网盘配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
+//网盘
+{"key":"盘搜","name":"❤盘搜｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"夸克盘搜","name":"❤夸克｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"quark"}},
+{"key":"UC盘搜","name":"❤UC｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"uc"}},
+{"key":"百度盘搜","name":"❤度盘｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"baidu"}},
+{"key":"阿里云盘","name":"❤我的｜阿里","type":3,"api":"csp_PanAli","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/aliShare.json"},
+{"key":"夸克云盘","name":"❤我的｜夸克","type":3,"api":"csp_PanQuark","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/quarkShare.json"},
+{"key":"UC","name":"❤我的｜UC","type":3,"api":"csp_PanUc","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/ucShare.json"},
+{"key":"百度云盘","name":"❤我的｜度盘","type":3,"api":"csp_PanBaiDu","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433}},
+{"key":"玩偶","name":"❤玩偶｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://woog.nxog.eu.org","https://woog.nxog.fun","https://ogkk.nxog.de5.net"]}},
+{"key":"蜡笔","name":"❤蜡笔｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://www.labi88.sbs","https://feimao666.fun","http://feimao888.fun"]}},
+{"key":"至臻","name":"❤至臻｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://mihdr.top","https://www.miqk.cc","https://xiaomiai.site","https://xiaomi666.fun","https://www.mihdr.top","https://www.zhizhenpan.fun"]}},
+{"key":"多多","name":"❤多多｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://tv.yydsys.top","https://tv.yydsys.cc","https://tv.214521.xyz"]}},
+{"key":"木偶","name":"❤木偶｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://123.666291.xyz","https://666.666291.xyz","https://www.muou.site","https://www.muou.asia"]}},
+{"key":"虎斑","name":"❤虎斑｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["http://103.45.162.207:20720"]}},
+
 //jar
 {"key":"荐片","name":"💡荐片｜影视","api":"csp_JianPian","type":3},
 {"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
@@ -70,22 +86,6 @@
 {"key":"魔都资源","name":"🤣魔都┃动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"漫国动漫","name":"🤣漫国丨动漫","type":3,"api":"csp_AppSy","ext":{"site":"https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt","siteKey":"rectangleadsadxa","listKey":"aassddwwxxllsx1x","parsesKey":"aassddwwxxllsx1x"}},
 {"key":"番薯动漫","name":"🤣番薯丨动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://new.app.bytegooty.com","dataKey":"N4yj7l7xKxHF4*gz","dataIv":"N4yj7l7xKxHF4*gz"}},
-
-//网盘
-{"key":"玩偶","name":"❤玩偶｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://woog.nxog.eu.org","https://woog.nxog.fun","https://ogkk.nxog.de5.net"]}},
-{"key":"蜡笔","name":"❤蜡笔｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://www.labi88.sbs","https://feimao666.fun","http://feimao888.fun"]}},
-{"key":"至臻","name":"❤至臻｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://mihdr.top","https://www.miqk.cc","https://xiaomiai.site","https://xiaomi666.fun","https://www.mihdr.top","https://www.zhizhenpan.fun"]}},
-{"key":"多多","name":"❤多多｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://tv.yydsys.top","https://tv.yydsys.cc","https://tv.214521.xyz"]}},
-{"key":"木偶","name":"❤木偶｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://123.666291.xyz","https://666.666291.xyz","https://www.muou.site","https://www.muou.asia"]}},
-{"key":"虎斑","name":"❤虎斑｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["http://103.45.162.207:20720"]}},
-{"key":"盘搜","name":"❤盘搜｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"夸克盘搜","name":"❤夸克｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"quark"}},
-{"key":"UC盘搜","name":"❤UC｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"uc"}},
-{"key":"百度盘搜","name":"❤度盘｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"baidu"}},
-{"key":"阿里云盘","name":"❤我的｜阿里","type":3,"api":"csp_PanAli","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/aliShare.json"},
-{"key":"夸克云盘","name":"❤我的｜夸克","type":3,"api":"csp_PanQuark","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/quarkShare.json"},
-{"key":"UC","name":"❤我的｜UC","type":3,"api":"csp_PanUc","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/ucShare.json"},
-{"key":"百度云盘","name":"❤我的｜度盘","type":3,"api":"csp_PanBaiDu","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433}},
 ],
 "parses":[
 {"name":"-聚合-","type":3,"url":"Demo"},
