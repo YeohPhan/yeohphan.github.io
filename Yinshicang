@@ -4,6 +4,7 @@
 "wallpaper":"https://tv.nxog.top/m/t/",
 "logo":"https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
 "spider":"https://tv.nxog.top/m/jar?id=index;md5;678e6aa8cd76dad3bf565c8d98238bce",
+"warningText":"tv提示:\n📢仅供自用 \n📢仅供自用",
 
 "sites": [
 {"key":"豆瓣2","name":"📢2026年骐骥驰骋势不可挡！","type":3,"api":"csp_Douban","searchable":0},
