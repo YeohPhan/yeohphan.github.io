@@ -2,23 +2,19 @@
   "wallpaper": "http://yeohphan.github.io/PantallaNegra.com_3840x2160_0d0d0d.png",
   "logo": "https://tv.nxog.top/m/logo.png",
   "spider": "https://tv.nxog.top/m/jar?id=index;md5;678e6aa8cd76dad3bf565c8d98238bce",
-  "warningText": "网盘搜索专线\n扫码配置网盘账号",
+  "warningText": "网盘搜索专线\n优化版 - 快速响应",
   "sites": [
     {"key": "豆瓣", "name": "📢2026年｜骐骥驰骋 势不可挡", "type": 3, "api": "csp_Douban", "searchable": 0},
-    
     {"key": "配置中心", "name": "⚙️网盘｜配置中心", "type": 3, "api": "csp_Config", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}, "ext": "https://tv.nxog.top/zm/sd?b=tv"},
-    
     {"key": "本地", "name": "📁本地｜视频", "type": 3, "api": "csp_LocalFile"},
     {"key": "推送", "name": "📤手机｜推送", "type": 3, "api": "csp_Push", "searchable": 0, "filterable": 0, "changeable": 0},
-    
-    {"key": "玩偶", "name": "❤玩偶｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["https://woog.nxog.eu.org", "https://woog.nxog.fun", "https://ogkk.nxog.de5.net"]}},
-    {"key": "蜡笔", "name": "❤蜡笔｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["https://www.labi88.sbs", "https://feimao666.fun", "http://feimao888.fun"]}},
-    {"key": "至臻", "name": "❤至臻｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["https://mihdr.top", "https://www.miqk.cc", "https://xiaomiai.site", "https://xiaomi666.fun", "https://www.zhizhenpan.fun"]}},
-    {"key": "多多", "name": "❤多多｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["https://tv.yydsys.top", "https://tv.yydsys.cc", "https://tv.214521.xyz"]}},
-    {"key": "木偶", "name": "❤木偶｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["https://123.666291.xyz", "https://666.666291.xyz", "https://www.muou.site", "https://www.muou.asia"]}},
-    {"key": "虎斑", "name": "❤虎斑｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["http://103.45.162.207:20720"]}},
-    
-    {"key": "盘搜", "name": "🔍盘搜｜搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://192.168.3.2:805/"},
+    {"key": "玩偶", "name": "❤玩偶｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["https://woog.nxog.eu.org", "https://woog.nxog.fun", "https://ogkk.nxog.de5.net"], "threadinfo": {"chunksize": 512, "threads": 32}}},
+    {"key": "蜡笔", "name": "❤蜡笔｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["https://www.labi88.sbs", "https://feimao666.fun", "http://feimao888.fun"], "threadinfo": {"chunksize": 512, "threads": 32}}},
+    {"key": "至臻", "name": "❤至臻｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["https://mihdr.top", "https://www.miqk.cc", "https://xiaomiai.site", "https://xiaomi666.fun", "https://www.zhizhenpan.fun"], "threadinfo": {"chunksize": 512, "threads": 32}}},
+    {"key": "多多", "name": "❤多多｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["https://tv.yydsys.top", "https://tv.yydsys.cc", "https://tv.214521.xyz"], "threadinfo": {"chunksize": 512, "threads": 32}}},
+    {"key": "木偶", "name": "❤木偶｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["https://123.666291.xyz", "https://666.666291.xyz", "https://www.muou.site", "https://www.muou.asia"], "threadinfo": {"chunksize": 512, "threads": 32}}},
+    {"key": "虎斑", "name": "❤虎斑｜4K 网盘", "type": 3, "api": "csp_PanWebShare", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext": {"site": ["http://103.45.162.207:20720"], "threadinfo": {"chunksize": 512, "threads": 32}}},
+    {"key": "盘搜", "name": "🔍盘搜｜搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "filterable": 1},
     {"key": "夸克盘搜", "name": "🔍夸克｜搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"cloudDrives": "quark"}},
     {"key": "UC 盘搜", "name": "🔍UC｜搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"cloudDrives": "uc"}},
     {"key": "百度盘搜", "name": "🔍百度｜搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"cloudDrives": "baidu"}},
@@ -27,7 +23,6 @@
     {"key": "115 盘搜", "name": "🔍115｜搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"cloudDrives": "115"}},
     {"key": "阿里盘搜", "name": "🔍阿里｜搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"cloudDrives": "ali"}},
     {"key": "移动盘搜", "name": "🔍移动｜搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"cloudDrives": "yidong"}},
-    
     {"key": "阿里云盘", "name": "☁️我的｜阿里云盘", "type": 3, "api": "csp_PanAli", "searchable": 0, "filterable": 0, "changeable": 0, "style": {"type": "list", "ratio": 1.433}, "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/aliShare.json"},
     {"key": "夸克云盘", "name": "☁️我的｜夸克云盘", "type": 3, "api": "csp_PanQuark", "searchable": 0, "filterable": 0, "changeable": 0, "style": {"type": "list", "ratio": 1.433}, "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/quarkShare.json"},
     {"key": "UC 云盘", "name": "☁️我的｜UC 云盘", "type": 3, "api": "csp_PanUc", "searchable": 0, "filterable": 0, "changeable": 0, "style": {"type": "list", "ratio": 1.433}, "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/ucShare.json"},
@@ -44,7 +39,8 @@
     {"name": "线路 3", "type": 0, "url": "https://cdn.zyc888.top/?url="}
   ],
   "lives": [
-    {"name": "TV 直播", "type": 0, "url": "https://tv.nxog.top/m/tv/?ou=14a", "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}", "logo": "https://gitee.com/mytv-android/mytvlogo/raw/main/img/{name}.png", "playerType": 2, "timeout": 10}
+    {"name": "广东 IPTV", "type": 0, "url": "http://yeohphan.github.io/GuangdongIPTV_rtp_customize.m3u", "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}", "logo": "https://gitee.com/mytv-android/mytvlogo/raw/main/img/{name}.png", "playerType": 2, "timeout": 5},
+    {"name": "冰茶直播", "type": 0, "playerType": 2, "url": "https://bc.188766.xyz/?ip=&json=true", "ua": "bingcha/1.1(mianfeifenxiang)", "timeout": 5}
   ],
   "headers": [{"host": "hlsztemgsplive.miguvideo.com", "header": {"User-Agent": "bingcha/1.1(mianfeifenxiang)"}}],
   "proxy": ["raw.githubusercontent.com"],
