@@ -1,20 +1,12 @@
 {
-  "wallpaper": "https://tv.nxog.top/m/t/",
+  "wallpaper": "http://yeohphan.github.io/PantallaNegra.com_3840x2160_0d0d0d.png",
   "logo": "https://tv.nxog.top/m/logo.png",
   "spider": "https://tv.nxog.top/m/jar?id=index;md5;678e6aa8cd76dad3bf565c8d98238bce",
   "warningText": "网盘搜索专线\n扫码配置网盘账号",
   "sites": [
-    {"key": "豆瓣", "name": "📢豆瓣｜公告", "type": 3, "api": "csp_Douban", "searchable": 0},
+    {"key": "豆瓣", "name": "📢2026年｜骐骥驰骋 势不可挡", "type": 3, "api": "csp_Douban", "searchable": 0},
     
     {"key": "配置中心", "name": "⚙️网盘｜配置中心", "type": 3, "api": "csp_Config", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}, "ext": "https://tv.nxog.top/zm/sd?b=tv"},
-    {"key": "阿里云盘配置", "name": "☁️阿里｜扫码配置", "type": 3, "api": "csp_AliConfig", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}},
-    {"key": "夸克云盘配置", "name": "☁️夸克｜扫码配置", "type": 3, "api": "csp_QuarkConfig", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}},
-    {"key": "UC 云盘配置", "name": "☁️UC｜扫码配置", "type": 3, "api": "csp_UcConfig", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}},
-    {"key": "百度盘配置", "name": "☁️百度｜扫码配置", "type": 3, "api": "csp_BaiduConfig", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}},
-    {"key": "天翼云盘配置", "name": "☁️天翼｜扫码配置", "type": 3, "api": "csp_TianYiConfig", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}},
-    {"key": "123 云盘配置", "name": "☁️123｜扫码配置", "type": 3, "api": "csp_Pan123Config", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}},
-    {"key": "115 云盘配置", "name": "☁️115｜扫码配置", "type": 3, "api": "csp_Pan115Config", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}},
-    {"key": "移动云盘配置", "name": "☁️移动｜扫码配置", "type": 3, "api": "csp_YiDongConfig", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}},
     
     {"key": "本地", "name": "📁本地｜视频", "type": 3, "api": "csp_LocalFile"},
     {"key": "推送", "name": "📤手机｜推送", "type": 3, "api": "csp_Push", "searchable": 0, "filterable": 0, "changeable": 0},
