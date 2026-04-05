@@ -5,7 +5,7 @@
   "warningText": "tv提示:\n📢新年快乐 \n健康平安",
   "sites": [
     {"key": "豆瓣2", "name": "📢2026年新年快乐，健康平安；骐骥驰骋，势不可挡！", "type": 3, "api": "csp_Douban", "searchable": 0},
-    {"key": "豆瓣1", "name": "📢公告:更新04.04", "type": 3, "api": "csp_Notice", "searchable": 1, "jar": "./ext/1.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a", "ext": "https://tv.nxog.top/m/公告?b=tv"},
+    {"key": "豆瓣1", "name": "📢更新20260404", "type": 3, "api": "csp_Notice", "searchable": 1, "jar": "./ext/1.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a", "ext": "https://tv.nxog.top/m/公告?b=tv"},
     {"key": "config", "name": "接口配置中心", "type": 3, "api": "csp_Config", "searchable": 0, "jar": "./ext/1.jpg;md5;fb2c84ce1e3d69aa669be42e7fd3539b"},
     {"key": "配置中心", "name": "网盘配置中心", "type": 3, "api": "csp_Config", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}},
     {"key": "csp_wogg1", "name": "玩歌｜4K弹幕", "type": 3, "api": "csp_Duopan", "changeable": 0, "filterable": 1, "jar": "./ext/2.jpg;md5;95d710fd96c41285f275b40ee4272a75", "ext": {"site_urls": ["https://woog.nxog.fun", "https://woog.nxog.eu.org", "https://woog.430520.xyz", "https://woog.装歌.de5.net", "https://ogkk.nxog.fun"], "url_key": "wogg1", "threadinfo": {"chunksize": 485, "threads": 16}}},
