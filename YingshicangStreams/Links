@@ -5,7 +5,7 @@
   "warningText": "tv提示:\n📢新年快乐 \n健康平安",
   "sites": [
     {"key": "豆瓣2", "name": "📢2026年新年快乐，健康平安；骐骥驰骋，势不可挡！", "type": 3, "api": "csp_Douban", "searchable": 0},
-    {"key": "豆瓣1", "name": "📢更新20260405", "type": 3, "api": "csp_Notice", "searchable": 1, "jar": "./ext/1.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a", "ext": "https://tv.nxog.top/m/公告?b=tv"},
+    {"key": "豆瓣1", "name": "📢更新 20260405", "type": 3, "api": "csp_Douban", "searchable": 0},
     {"key": "config", "name": "接口配置中心", "type": 3, "api": "csp_Config", "searchable": 0, "jar": "./ext/1.jpg;md5;fb2c84ce1e3d69aa669be42e7fd3539b"},
     {"key": "配置中心", "name": "网盘配置中心", "type": 3, "api": "csp_Config", "searchable": 0, "changeable": 0, "style": {"type": "rect", "ratio": 1.597}},
     {"key": "csp_wogg1", "name": "玩歌｜4K弹幕", "type": 3, "api": "csp_Duopan", "changeable": 0, "filterable": 1, "jar": "./ext/2.jpg;md5;95d710fd96c41285f275b40ee4272a75", "ext": {"site_urls": ["https://woog.nxog.fun", "https://woog.nxog.eu.org", "https://woog.430520.xyz", "https://woog.装歌.de5.net", "https://ogkk.nxog.fun"], "url_key": "wogg1", "threadinfo": {"chunksize": 485, "threads": 16}}},
@@ -89,10 +89,7 @@
     {"key": "剧和短剧", "name": "🌸聚合｜短剧", "type": 3, "api": "https://5sbxmjnw9n.coze.site/api/files/preview?name=jhdj.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1},
     {"key": "919体育", "name": "⚽919｜体育", "type": 3, "api": "csp_919Tiyu", "style": {"type": "list"}},
     {"key": "采集之王", "name": "🐢采集｜合集", "type": 3, "api": "./js/drpy2.min.js", "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json"},
-    {"key": "push_agent", "name": "📢手机｜推送", "type": 3, "api": "csp_Push", "searchable": 0, "filterable": 0, "changeable": 0},
-    {"key": "应用商店", "name": "🛒本地包更新", "type": 3, "api": "csp_Market", "searchable": 0, "changeable": 0, "ext": "https://tv.nxog.top/zm/sd?b=tv"},
-    {"key": "豆瓣3", "name": "📢接口软件永远免费", "type": 3, "api": "csp_Douban", "searchable": 0},
-    {"key": "豆瓣4", "name": "📢长期维护切勿贩卖", "type": 3, "api": "csp_Douban", "searchable": 0}
+    {"key": "push_agent", "name": "📢手机｜推送", "type": 3, "api": "csp_Push", "searchable": 0, "filterable": 0, "changeable": 0}
   ],
   "parses": [
     {"name": "-聚合-", "type": 3, "url": "Demo"},
