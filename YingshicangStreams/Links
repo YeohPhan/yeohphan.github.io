@@ -2,7 +2,7 @@
 "wallpaper":"./img/Pureblackbackground.png",
 "logo":"./img/1.png",
 "spider":"./jar/1.jar;md5;da455b437cfa160aa42e56a78a8d42de",
-"warningText":"tv提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
+"warningText":"tv提示:\n📢新年快乐 \n健康平安",
 
 "sites": [
 {"key":"豆瓣2","name":"📢2026年骐骥驰骋，势不可挡！","type":3,"api":"csp_Douban","searchable":0},
@@ -54,14 +54,14 @@
 {"key":"七壹","name":"👑七壹｜影视","type":3,"api":"csp_AppGet","searchable":1,"changeable":1,"ext":{"url":"https://qiyiys.cc","dataKey":"45452893929B40D9","dataIv":"45452893929B40D9"}},
 
 //js
-{"key":"永乐","name":"🥇永乐｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js"},
-{"key":"金牌123","name":"🥇金牌｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金牌影院.js"},
-{"key":"海龟","name":"🥇海龟｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/海龟.js"},
-{"key":"鬼片","name":"🥇鬼片｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/鬼片之家.js"},
-{"key":"爱看机器1人","name":"🥇爱看┃影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/爱看机器人.js"},
-{"key":"月光影视","name":"🥇月光┃影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/月光影视.js"},
-{"key":"星辰影院","name":"🥇星辰┃影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/星辰影院.js"},
-{"key":"耐看","name":"🥇耐看┃影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/耐看.js"},
+{"key":"永乐","name":"🥇永乐｜影视","type":3,"api":./js/永乐视频.js"},
+{"key":"金牌123","name":"🥇金牌｜影视","type":3,"api":"./js/金牌影院.js"},
+{"key":"海龟","name":"🥇海龟｜影视","type":3,"api":"./js/海龟.js"},
+{"key":"鬼片","name":"🥇鬼片｜影视","type":3,"api":"./js/鬼片之家.js"},
+{"key":"爱看机器1人","name":"🥇爱看┃影视","type":3,"api":"./js/爱看机器人.js"},
+{"key":"月光影视","name":"🥇月光┃影视","type":3,"api":"./js/月光影视.js"},
+{"key":"星辰影院","name":"🥇星辰┃影视","type":3,"api":"./js/星辰影院.js"},
+{"key":"耐看","name":"🥇耐看┃影视","type":3,"api":"./js/耐看.js"},
 
 //磁力
 {"key":"New6v","name":"🎃New6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
@@ -85,6 +85,7 @@
 {"key":"木偶","name":"❤木偶｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://123.666291.xyz","https://666.666291.xyz","https://www.muou.site","https://www.muou.asia"]}},
 {"key":"虎斑","name":"❤虎斑｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["http://103.45.162.207:20720"]}},
 
+{"key":"123网盘","name":"❤我的｜123","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://123panfx.com","https://pan1.me"]},
 {"key":"阿里云盘","name":"❤我的｜阿里","type":3,"api":"csp_PanAli","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"./ext/11.json"},
 {"key":"夸克云盘","name":"❤我的｜夸克","type":3,"api":"csp_PanQuark","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"./ext/12.json"},
 {"key":"UC","name":"❤我的｜UC","type":3,"api":"csp_PanUc","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"./ext/13.json"},
@@ -129,7 +130,7 @@
 {"key":"戏曲多多","name":"🌸戏曲｜多多","type":3,"api":"csp_AppLY","style":{"type":"list"}},
 {"key":"剧和短剧","name":"🌸聚合｜短剧","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"https://5sbxmjnw9n.coze.site/api/files/preview?name=jhdj.js"},
 {"key":"919体育","name":"⚽919｜体育","type":3,"api":"csp_919Tiyu","style":{"type":"list"}},
-{"key":"采集之王","name":"🐢采集｜合集","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"}, 
+{"key":"采集之王","name":"🐢采集｜合集","type":3,"api":"./js/drpy2.min.js","ext":"./js/采集之王.js?type=url&params=./json/采集静态.json"}, 
 {"key":"push_agent","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0},
 {"key": "应用商店","name": "🛒本地包更新","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://tv.nxog.top/zm/sd?b=tv"},
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
@@ -150,9 +151,7 @@
 {"name":"线路6","type":0,"url":"https://bd.jx.cn/?url="},
 {"name":"线路7","type":0,"url":"https://down.nigx.cn/xjx.zzong6599.workers.dev/?url="}
 ],
-"lives":[{"name":"tv","type":0,"url":"https://tv.nxog.top/m/tv/?ou=194","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10},
-{"name":"冰茶","type":0,"playerType":2,"url":"https://bc.188766.xyz/?ip=&json=true","ua":"bingcha/1.1(mianfeifenxiang)"}
-],
+"lives":"lives":[{"name":"广东IPTV","type":0,"url":"https://raw.githubusercontent.com/YeohPhan/yeohphan.github.io/main/IPTV/GuangdongIPTV.m3u","epg":"http://192.168.3.2:5678/t.xml.gz","logo":"https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png","playerType":2,"timeout":10}],
 "headers":[{"host":"hlsztemgsplive.miguvideo.com","header":{"User-Agent":"bingcha/1.1(mianfeifenxiang)"}}],
 "proxy":["raw.githubusercontent.com"],
 "hosts":["hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz","cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz","iptv.huuc.edu.cn=huucv6.188766.xyz"],
