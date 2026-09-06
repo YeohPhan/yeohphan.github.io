@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# 临时与日志
+*.log
+*.tmp
+temp/
